@@ -39,9 +39,9 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name: S.YOGESH
+### Name: S.Senthil velan
 
-### Register Number: 212224230311
+### Register Number: 212222220041
 
 ```python
 
